@@ -2,6 +2,7 @@ name: malix
 favicon: null
 layout_spectrum: 0.9158556908369064
 typography_spectrum: 0.8755309528205544
+title: malix
 cta:
   domain: null
   bucket: null
