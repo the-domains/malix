@@ -1,20 +1,4 @@
-name: malix
-favicon: null
-layout_spectrum: 0.9158556908369064
 typography_spectrum: 0.8755309528205544
-title: malix
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,21 @@ color:
   lightness: 0.04567093797959387
   saturation: 0.6575719160027802
   rhythmicContrast: 0.8600410500075668
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9158556908369064
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: malix
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: malix
+description: software guru
 purpose: []
